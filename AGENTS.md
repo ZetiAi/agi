@@ -4,7 +4,7 @@ A from-scratch GPT-style Transformer (PyTorch) aimed at understanding, writing a
 
 ## Deployment map
 
-**Status:** never deployed. Research training code, dormant since 2024-10.
+**Status:** archived to the HDD 2026-10-06. never deployed. Research training code, dormant since 2024-10.
 
 ```text
 Colab GPU notebook (agi.ipynb clones this repo) → PyTorch Lightning + DeepSpeed stage 2 → checkpoints, hparams, TensorBoard logs → Google Cloud Storage
